@@ -1,5 +1,6 @@
 
-<h2>Live Demo</h2>
+
+## Live Demo :
   <a href="https://car-rental-chi-rouge.vercel.app/">https://car-rental-chi-rouge.vercel.app/</a>
 
 ![Screenshot 2024-05-26 122341](https://github.com/RohithChitrada/car-rental/assets/120176158/c266f7dc-247a-4e16-9db0-528f9cdc01ce)
