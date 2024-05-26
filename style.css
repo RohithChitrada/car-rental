@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600&display=swap');
+
+body{
+    font-family: "Dosis";
+    font-weight: 500;
+    text-transform: uppercase;
+}
+nav{
+    font-size: 18px;
+    font-weight: 700;
+}
+.navbar .nav-item .nav-link.active{
+    color: rgb(234, 150, 54);
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+h2,h3,h4,h5,h6{
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+span{
+    color: rgb(239, 116, 72);
+}
+img{
+    width: 100%;
+}
+.divider{
+    width: 200px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    height: 3px;
+    background-color: rgb(238, 145, 38);
+}
+.bg-brand{
+    color: rgb(234, 186, 54);
+}
+.bg-white{
+    background-color: #fff;
+}
+.bg-yellow{
+    background-color: rgb(189, 148, 73);
+}
+.btn{
+    padding: 8px 35px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.btn:hover{
+    background-color: orange;
+}
+.btn-brand{
+    background-color:rgb(239, 116, 72);
+}
+.section-padding{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.section-on-hover{
+    transition: all 0.4s;
+    background: #eeeeee;
+}
+.section-on-hover:hover{
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+.top-banner{
+    width: 100%;
+    height: 100vh;
+    background: url(./img/Car\ Website\ –\ 1@2x.png) no-repeat center;
+    background-size: cover;
+    padding: 16.875rem 0 9.375rem;
+    margin-top: 25px;
+}
+#ride .icon-box{
+    width: 100px;
+    height: 100px;
+    border-radius: 10%;
+    background-color: rgba(244, 106, 8, 0.818);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
+.stars{
+    color: rgb(234, 186, 54);
+}
+.review-img{
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+.social{
+    font-size: 30px;
+    color: orangered;
+}
+.section-padding1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar-scrolled{
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
